@@ -36,3 +36,5 @@ Argumentos para passar no running do projeto:
  
 
 Bons estudos 😉
+
+repositorio com as regras: https://github.com/walyson-scarazzati/sudoku
